@@ -1,4 +1,5 @@
- Confusion-Emotion-Recognition from EEG Signals
+Confusion-Emotion-Recognition from EEG Signals from Artificial Intelligence
+ 
 Recognizing learners' confusion is essential for educators as it greatly impacts learning. While confusion can initially motivate students, prolonged confusion can hinder the learning process.
 
 Educators typically identify confusion based on their own understanding, but advances in Affective Computing have led to the development of computerized systems that use psychophysiological signals (e.g., EEG) and Machine Learning (ML) models to recognize learner emotions.
@@ -11,3 +12,4 @@ b)Limited R&D on cost-sensitive model which may lead to cost inefficiency in exi
 
 Addressing the research gaps aided in developing confusion emotion model that is both performance and cost efficient.
 
+The performance was increased by hyperparameter tuning the utilized supervised ML algorithms using Genetic Algorithm and was made cost efficient by training a heterogenous ensemble model that had reduced misclassification costs.
